@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 14,
+      "title": "voluptatem eligendi optio",
+      "body": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum",
+      "active": false,
+      "type": "politic"
+    },
+    {
+      "id": 116,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": false,
+      "type": "politic"
+    },
+    {
+      "id": 13,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": false,
+      "type": "education"
+    },
+    {
+      "id": 163,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": false,
+      "type": "education"
+    },
+    {
+      "id": 1363,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": false,
+      "type": "politic"
+    },
+    {
+      "id": 1633,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": false,
+      "type": "politic"
+    },
+    {
+      "id": 16323,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": true,
+      "type": "politic"
+    },
+    {
+      "id": 1623,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": true,
+      "type": "politic"
+    },
+    {
+      "id": 1613,
+      "title": "eveniet quod temporibus",
+      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+      "active": false,
+      "type": "politic"
+    }
+  ]
+}
